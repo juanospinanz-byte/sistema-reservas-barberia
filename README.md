@@ -12,9 +12,9 @@ El propósito es gestionar **historias de usuario** y simular los roles de Scrum
 ---
 
 ## 👥 Roles en el equipo
-- **Product Owner (PO):** Define y prioriza el backlog.
-- **Scrum Master (SM):** Facilita la metodología y asegura que se sigan las prácticas Scrum.
-- **Developers:** Simulan el desarrollo de funcionalidades (mockups, diagramas, etc.).
+- **Product Owner (PO):** Juan Camilo Garcia,Define y prioriza el backlog.
+- **Scrum Master (SM):** Juan Esteban Ospina, Facilita la metodología y asegura que se sigan las prácticas Scrum.
+- **Developers:** Camilo/Juan Esteban, Simulan el desarrollo de funcionalidades (mockups, diagramas, etc.).
 
 ---
 
@@ -34,18 +34,18 @@ El propósito es gestionar **historias de usuario** y simular los roles de Scrum
 
 ---
 
-## 🗂 Historias de Usuario (ejemplo)
-1. Como *usuario*, quiero registrarme en el sistema, para poder acceder a las reservas.
-2. Como *usuario*, quiero iniciar sesión, para gestionar mis citas.
-3. Como *usuario*, quiero consultar la disponibilidad de citas, para elegir un horario libre.
-4. Como *usuario*, quiero reservar una cita, para asegurar mi turno.
-5. Como *usuario*, quiero cancelar una cita, para liberar el espacio.
-6. Como *usuario*, quiero recibir notificaciones de confirmación, para recordar mi cita.
-7. Como *administrador*, quiero gestionar usuarios y citas, para mantener el control del sistema.
+## 🗂 Historias de Usuario 
+1. **HU1:**  Como *usuario*, quiero registrarme en el sistema, para poder acceder a las reservas.
+2. **HU2:**  Como *usuario*, quiero iniciar sesión, para gestionar mis citas.
+3. **HU3:** Como *usuario*, quiero consultar la disponibilidad de citas, para elegir un horario libre.
+4. **HU4:** Como *usuario*, quiero reservar una cita, para asegurar mi turno.
+5. **HU5:** Como *usuario*, quiero cancelar una cita, para liberar el espacio.
+6. **HU6:** Como *usuario*, quiero recibir notificaciones de confirmación, para recordar mi cita.
+7. **HU7:** Como *administrador*, quiero gestionar usuarios y citas, para mantener el control del sistema.
 
 ---
 
-## 📝 Criterios de aceptación (ejemplo para la historia 1)
+## 📝 Criterios de aceptación 
 - El formulario de registro debe solicitar: nombre, correo y contraseña.
 - El sistema valida que el correo no esté repetido.
 - Se confirma el registro con un mensaje de bienvenida.
