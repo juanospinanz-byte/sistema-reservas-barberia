@@ -35,13 +35,13 @@ El propósito es gestionar **historias de usuario** y simular los roles de Scrum
 ---
 
 ## 🗂 Historias de Usuario 
-**HU1:**  Como *usuario*, quiero registrarme en el sistema, para poder acceder a las reservas.
-**HU2:**  Como *usuario*, quiero iniciar sesión, para gestionar mis citas.
-**HU3:** Como *usuario*, quiero consultar la disponibilidad de citas, para elegir un horario libre.
-**HU4:** Como *usuario*, quiero reservar una cita, para asegurar mi turno.
-**HU5:** Como *usuario*, quiero cancelar una cita, para liberar el espacio.
-**HU6:** Como *usuario*, quiero recibir notificaciones de confirmación, para recordar mi cita.
-**HU7:** Como *administrador*, quiero gestionar usuarios y citas, para mantener el control del sistema.
+- **HU1:**  Como *usuario*, quiero registrarme en el sistema, para poder acceder a las reservas.
+- **HU2:**  Como *usuario*, quiero iniciar sesión, para gestionar mis citas.
+- **HU3:** Como *usuario*, quiero consultar la disponibilidad de citas, para elegir un horario libre.
+- **HU4:** Como *usuario*, quiero reservar una cita, para asegurar mi turno.
+- **HU5:** Como *usuario*, quiero cancelar una cita, para liberar el espacio.
+- **HU6:** Como *usuario*, quiero recibir notificaciones de confirmación, para recordar mi cita.
+- **HU7:** Como *administrador*, quiero gestionar usuarios y citas, para mantener el control del sistema.
 
 ---
 
