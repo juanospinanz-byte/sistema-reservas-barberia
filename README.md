@@ -1,24 +1,24 @@
-# Barbería Reservas System 🪒💈
+# Barbería Reservas System 
 
 Este repositorio es una simulación de la gestión de un proyecto con **Scrum** utilizando **GitHub Projects**.  
 No contiene código, solo la organización del trabajo en equipo con backlog, tablero Kanban y documentación.
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 Aplicar el marco de trabajo Scrum para un sistema de gestión de reservas (barbería).  
 El propósito es gestionar **historias de usuario** y simular los roles de Scrum en un entorno colaborativo.
 
 ---
 
-## 👥 Roles en el equipo
+##  Roles en el equipo
 - **Product Owner (PO):** Juan Camilo Garcia,Define y prioriza el backlog.
 - **Scrum Master (SM):** Juan Esteban Ospina, Facilita la metodología y asegura que se sigan las prácticas Scrum.
 - **Developers:** Camilo/Juan Esteban, Simulan el desarrollo de funcionalidades (mockups, diagramas, etc.).
 
 ---
 
-## 📋 Requerimientos iniciales
+## Requerimientos iniciales
 1. Registro e inicio de sesión de usuarios.
 2. Consulta de disponibilidad de citas.
 3. Reserva y cancelación de citas.
@@ -27,7 +27,7 @@ El propósito es gestionar **historias de usuario** y simular los roles de Scrum
 
 ---
 
-## 📌 Herramientas usadas
+## Herramientas usadas
 - **GitHub Issues** → para registrar historias de usuario.
 - **GitHub Projects (Kanban)** → para organizar el sprint.
   - Columnas: `Backlog` → `To Do` → `In Progress` → `Done`.
@@ -45,14 +45,14 @@ El propósito es gestionar **historias de usuario** y simular los roles de Scrum
 
 ---
 
-## 📝 Criterios de aceptación 
+##  Criterios de aceptación 
 - El formulario de registro debe solicitar: nombre, correo y contraseña.
 - El sistema valida que el correo no esté repetido.
 - Se confirma el registro con un mensaje de bienvenida.
 
 ---
 
-## 🚀 Simulación de Sprint
+##  Simulación de Sprint
 - El equipo selecciona historias priorizadas para el Sprint.
 - Se mueven las historias en el tablero Kanban.
 - Daily Scrum simulado en clase (qué hice ayer, qué haré hoy, qué impedimentos tengo).
@@ -61,7 +61,7 @@ El propósito es gestionar **historias de usuario** y simular los roles de Scrum
 
 ---
 
-## 📑 Entregables
+##  Entregables
 - Historias de usuario en **Issues**.
 - Tablero **Kanban** en GitHub Projects.
 - Capturas del tablero antes y después del Sprint.
